@@ -89,6 +89,15 @@ body{
     margin-top: 3rem;
     cursor: pointer;
 }
+.button_stop{
+    width: 200px;
+    height: 35px;
+    background: var(--naver-color);
+    color: var(--color-white);
+    border: none;
+    margin-top: 3rem;
+    cursor: pointer;
+}
 
 .loading{
     background-color: var(--color-grey);
